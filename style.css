@@ -128,3 +128,135 @@ nav {
     font-size: 1.5rem;
     margin: 10px;
 }
+.for_karzinka {
+    text-decoration: none;
+    color: #a3a1a1;
+}
+.for_profil {
+    text-decoration: none;
+    color: #a3a1a1;
+}
+.hero {
+    width: 100%;
+    height: 663px;
+    background-image: url(Rectangle\ 2.png);
+    display: flex;
+    
+}
+.h1 {
+    color: black;
+    font-size: 3.6rem;
+    font-family: 'Satoshi', sans-serif;
+    letter-spacing: -3px;
+    font-weight: 1000;
+    width: 577px;
+    height: 173px;
+    margin-bottom: 30px;
+    line-height: 1.2;
+}
+.one {
+    width: 850px;
+    padding: 70px;
+}
+.p_second {
+    font-family: 'Satoshi', sans-serif;
+    width: 545px;
+    height: 33px;
+    line-height: 22px;
+    font-size: 16px;
+    margin-top: -30px;
+}
+.vector {
+    margin-left: 650px;
+}
+.btn {
+    background-color: black;
+    color: white;
+    font-family: 'Satoshi', sans-serif;
+    width: 210px;
+    height: 52px;
+    font-size: 16px;
+    border-radius: 62px;
+    margin-top: 30px;
+}
+.two {
+    position: relative;
+    top: 20%;
+    left: 30%;
+}
+.vector_two {
+    position: absolute;
+}
+.for_number {
+    width: 596px;
+    height: 74px;
+    margin-top: 45px;
+    display: flex;
+}
+.for_number_one {
+    /* border: 1px solid red; */
+    width: 141px;
+    height: 74px;
+}
+.very {
+    width: 107px;
+    height: 54px;
+    font-family: 'Satoshi', sans-serif;
+    font-size: 45px;
+    font-weight: bold;
+}
+.very_p {
+    width: 141px;
+    height: 22px;
+    font-size: 11px;
+    font-family: 'Satoshi', sans-serif;
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.603);
+}
+.for_number_two {
+    /* border: 1px solid red; */
+    width: 141px;
+    height: 74px;
+}
+.small {
+    width: 107px;
+    height: 54px;
+    font-family: 'Satoshi', sans-serif;
+    font-size: 45px;
+    font-weight: bold;
+}
+.small_p {
+    width: 141px;
+    height: 22px;
+    font-size: 11px;
+    font-family: 'Satoshi', sans-serif;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.603);
+}
+.for_number_three {
+    /* border: 1px solid red; */
+    width: 165px;
+    height: 74px;
+}
+.big {
+    width: 107px;
+    height: 54px;
+    font-family: 'Satoshi', sans-serif;
+    font-size: 45px;
+    font-weight: bold;
+}
+.big_p {
+    width: 141px;
+    height: 22px;
+    font-size: 11px;
+    font-family: 'Satoshi', sans-serif;
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.603);
+}
+.spn {
+    background-color: rgba(192, 192, 192, 0.575);
+    width: 2px;
+    height: 100%;
+    margin-left: 30px;
+    margin-right: 30px;
+}
