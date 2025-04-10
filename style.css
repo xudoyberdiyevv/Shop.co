@@ -6,7 +6,7 @@
 .container {
     max-width: 1440px;
     margin: auto;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .signUP {
@@ -19,7 +19,7 @@
 }
 
 .top {
-    height: 38px;
+    height: 48px;
     width: 100%;
     background-color: black;
     display: flex;
@@ -69,7 +69,7 @@ nav {
     text-decoration: none;
     padding: 10px;
     display: block;
-    font-size: 1.1rem;
+    font-size: 1rem;
     font-family: 'Satoshi', sans-serif;
 }
 .submenu {
@@ -259,4 +259,12 @@ nav {
     height: 100%;
     margin-left: 30px;
     margin-right: 30px;
+}
+.b {
+    background-color: black;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
