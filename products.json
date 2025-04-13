@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "T-SHIRT WITH TAPE DETAILS",
+      "peck": "Frame 35.png",
+      "price": "120$",
+      "image": "Frame 32.png",
+      "description": "Yengil, nafas oluvchi matodan tayyorlangan original Nike futbolkasi. Sport uchun juda qulay."
+    },
+    {
+      "id": 2,
+      "name": "Adidas White Tee",
+      "price": "110,000",
+      "image": "images/adidas1.jpg",
+      "description": "Yumshoq materialda, kundalik kiyishga mo‘ljallangan futbolka. Minimalist dizayn."
+    }
+  ]
