@@ -281,23 +281,73 @@ nav {
     margin-top: 100px;
     margin-bottom: 100px;
 }
-.card {
-    border: 1px solid #3b3434;
-    width: 295px;
+.card_1 {
     display: inline-block;
-    height: auto;
-  }
-  .card img {
-    width: 295px;
-    height: 298px;
-  }
-  h3 {
+}
+.mahsulot_1 {
     font-size: 20px;
-    font-family: "Satoshi", sans-serif;
     font-weight: bold;
-    margin-top: 20px;
-  }
-  .card peck  {
-    width: 50px;
-    height: 10px;
-  }
+    font-family: 'Satoshi', sans-serif;
+    margin-top: 10px;
+}
+.kaku_2 {
+    margin-top: 10px;
+}
+.narxlar {
+    width: 55px;
+    height: 32px;
+    margin-top: 10px;
+    display: flex;
+}
+.som {
+    font-weight: bold;
+    font-size: 24px;
+    font-family: 'Satoshi', sans-serif;
+    margin-right: 10px;
+}
+.dsp {
+    display: flex;
+    justify-content: space-evenly;
+}
+.cursor {
+    color: black;
+}
+.som_2 {
+    font-weight: bold;
+    font-size: 24px;
+    font-family: 'Satoshi', sans-serif;
+    color: rgba(0, 0, 0, 0.397);
+    text-decoration: line-through;
+    margin-right: 10px;
+}
+.prasent {
+    border-radius: 20px;
+    padding: 5px;
+    background-color: rgba(255, 192, 203, 0.37);
+    color: red;
+    font-size: 12px;
+    width: 58px;
+    height: 28px;
+}
+.viewall {
+    width: 218px;
+    height: 52px;
+    font-family: 'Satoshi', sans-serif;
+    font-size: 16px;
+    border-radius: 30px;
+    background-color: white;
+    border: 1px solid rgba(192, 192, 192, 0.692);
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.linefor {
+    background-color: rgba(192, 192, 192, 0.479);
+    width: 1240px;
+    height: 1.5px;
+    margin: auto;
+}
+.product-section_2 {
+    padding: 50px;
+}

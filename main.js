@@ -12,20 +12,3 @@ const aboutItem = document.querySelector('.menu-item');
         e.preventDefault(); // sahifa refresh bo‘lmasligi uchun
         aboutItem.classList.toggle('active'); // toggle orqali ko‘rsatadi yoki yashiradi
     });
-
-    fetch('products.json')
-      .then(response => response.json())
-      .then(products => {
-        const container = document.getElementById('product-container');
-        products.forEach(product => {
-          container.innerHTML += `
-            <div class="card">
-              <img src="${product.image}" alt="${product.name}" />
-              <h3>${product.name}</h3>
-              <img src="${product.peck}" alt="${product.peck}"/>
-              <p>${product.description}</p>
-              <strong>${product.price}</strong>
-            </div>
-          `;
-        });
-      });
