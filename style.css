@@ -348,3 +348,70 @@ nav {
     height: 1.5px;
     margin: auto;
 }
+.browse {
+    width: 1239px;
+    height: 866px;
+    border-radius: 40px;
+    margin: 0 auto;
+    background-color: rgba(192, 192, 192, 0.247);
+    text-align: center;
+}
+.by {
+    width: 687px;
+    height: 58px;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Integraf CF', sans-serif;
+    margin: auto;
+    padding-top: 80px;
+    padding-bottom: 100px;
+    display: inline-block;
+}
+.line_1 {
+    width: 85%;
+    margin: 0 auto;
+    height: 291px;
+    display: inline-flex;
+}
+.casual {
+    width: 407px;
+    height: 289px;
+    margin-right: 10px;
+    border-radius: 20px;
+    background-image: url(image\ 11.png);
+}
+.formal {
+    width: 684px;
+    height: 289px;
+    margin-left: 10px;
+    border-radius: 20px;
+    background-image: url(image\ 13.png);
+}
+.sn {
+    font-family: 'Satoshi', sans-serif;
+    font-size: 36px;
+    display: flex;
+    padding: 30px;
+    font-weight: bold;
+}
+.line_2 {
+    width: 85%;
+    margin: 0 auto;
+    height: 291px;
+    display: inline-flex;
+    margin-top: 50px;
+}
+.party {
+    width: 684px;
+    height: 289px;
+    margin-right: 10px;
+    border-radius: 20px;
+    background-image: url(image\ 12.png);
+}
+.gym {
+    width: 407px;
+    height: 289px;
+    margin-left: 10px;
+    border-radius: 20px;
+    background-image: url(image\ 14.png);
+}
